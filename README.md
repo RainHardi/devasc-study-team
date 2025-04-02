@@ -10,6 +10,6 @@
 
 ## Completed by Rasulov Elyor Dusyor Ugli
 The submission items include:
-![Screenshot of the completion](./screenshot.png)
-- [Screenshot of the completion](screenshot.png)
+![Screenshot of the completion](./Screenshot.png)
+- [Screenshot of the completion](./Screenshot.png)
 - [Link to the GitHub repository:branch](https://github.com/RainHardi/devasc-study-team7/tree/12214756_branch)
